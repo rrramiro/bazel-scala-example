@@ -1,0 +1,5 @@
+dependencies:
+  com.twitter:
+    algebird-core:
+      lang: scala
+      version: "0.12.1"

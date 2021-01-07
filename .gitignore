@@ -1,2 +1,5 @@
 bazel-*
 .ijwb/
+.history
+.metals
+.vscode
